@@ -159,8 +159,4 @@ Epoch 5/5 - loss: 0.0198 - accuracy: 0.9936 - val_accuracy: 0.9908
 - Extend to recognize **alphabets (A–Z)** using the EMNIST dataset
 - Build a simple **web app** using Flask or Streamlit for live predictions
 
----
-
-## 📄 License
-
 This project is open-source and free to use for educational purposes.
